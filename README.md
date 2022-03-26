@@ -1,6 +1,6 @@
 # Solution Challenge Donation App
 
-<img src="assets/sample.png" width="60%"/>
+<img src="assets/ui.png" width="60%"/>
 
 ## Completed Parts:
 1. Signin with Google
